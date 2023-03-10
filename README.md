@@ -11,7 +11,7 @@
  MY HOBBIES:i like sports, dancing , fights, play movies and series. My favorite pastime is go to train CrossFit and taekwondo.
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/P.edro_tkd/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Pedro.Amaral.503)
-<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
+    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">(https://id.sonyentertainmentnetwork.com/id/management_ca/?gated=true&pr_referer=cam&entry=psn_profile&cid=6959ee51-33de-4ad1-a1b4-35841dacde18#/p/psn_profile/list?cid=cedffcde-2363-4907-8b82-2119d9e5c21a&entry=psn_profile&state=cam_83ec9dece169d5b351bf1521e31af62a)
 
 
 ### Studying in this moment:
