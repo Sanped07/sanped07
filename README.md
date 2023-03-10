@@ -1,22 +1,17 @@
-![GIF](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanped07&show_icons=true&bg_color=00000000)
 
 
 HELLO, MY FRIEND!!!
 welcome to my profile, here you have an opportunity to know me better!
 
-C´est parti?:grin:
 
 My name is Pedro, 22years, i living in São Paulo city, i´m from brazilian.
 
-
-- 🔭 I’m currently working on: customer service at Concentrix, representing Amazon.:man_astronaut:
-- 🌱 I’m currently learning: I learning **codes programming** full stack and techniques of hacking. :man_technologist:	
 - 🤔 I’m looking for help with:i need help with understand the world of programming and choose my area of actuacion. I wanna follow in area for developer Mobile and Artificial intelligence.
-  
-- MY HOBBIES:i like sports, dancing , fights, play movies and series. My favorite pastime is go to train CrossFit and taekwondo.
+   MY HOBBIES:i like sports, dancing , fights, play movies and series. My favorite pastime is go to train CrossFit and taekwondo.
 
-MY FAcebook
-[Facebook](https://www.facebook.com/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/P.edro_tkd/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Pedro.Amaral.503)
+
 
 MY FAVORITE HERO IS: BLACK PANTHER
 
