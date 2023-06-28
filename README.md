@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Amaral;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanped07&show_icons=true&bg_color=00000000)
 
-[[Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sanped07&bg_color=0d1117&color=00FF00&point=0000FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph]](https://github-readme-activity-graph.cyclic.app/graph?username=Sanped07&bg_color=0d1117&color=00FF00&point=0000FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 - 🤔 I’m looking for help with:i need help with understand the world of programming and choose my area of actuacion. I wanna follow in area for developer Mobile and Artificial intelligence.
